@@ -3,7 +3,6 @@
 /**
  * print alphabet - Make the alphabet
  *
- * Description - and see
  * Return: void
  */
 
