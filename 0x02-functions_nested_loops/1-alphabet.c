@@ -2,10 +2,13 @@
 
 /**
  * print alphabet - Make the alphabet
+ *
+ * Description - and see
  * Return: void
  */
 
-void print_alphabet(void)
+void print_alphabet(void);
+
 {
 	char c;
 
