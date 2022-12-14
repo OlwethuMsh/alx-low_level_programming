@@ -2,6 +2,7 @@
 
 /**
  * print alphabet - entry point
+ *
  * Return: 0
  */
 
