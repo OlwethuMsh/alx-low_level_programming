@@ -1,9 +1,6 @@
-#ifndef MAIN_H_
-#define MAIN_H_
+#ifndef MAIN_H_INCLUDED
+#define MAIN_H_INCLUDED
 
-/**
- * functions prototype
- */
 
 int _putchar(char c);
 void print_alphabet(void);
