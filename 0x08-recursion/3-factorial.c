@@ -4,7 +4,7 @@
  * factorial - Calculate the factorial of a number
  * @n: the number to calculate the factorial
  *
- * Retunr: integar value
+ * Return: integar value
  */
 int factorial(int n)
 {
