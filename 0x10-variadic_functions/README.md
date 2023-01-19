@@ -1,1 +1,1 @@
-variadic functions Read Me
+variadic functions
