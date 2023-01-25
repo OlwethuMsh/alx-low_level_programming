@@ -1,10 +1,10 @@
-#include "3-cal.h"
+#include "3-calc.h"
 /**
- * gets_op_func - function selects the correct funtion to perform.
- * @s: operator used.
- *
- * Return: correct function result or NULL if operator is wrong.
- */
+  *get_op_func - function selects the correct function to perform.
+  *@s: operator used.
+  *
+  *Return: correct function result or NULL if operator is wrong.
+  */
 int (*get_op_func(char *s))(int, int)
 {
 	op_t ops[] = {
